@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @walchak
 - 👀 I’m interested in computer science & finance
-- 🌱 I’m currently learning how to code at a french school, trying to be geek.
+- 🌱 I’m currently learning how to code at a french school.
 - 💞️ I’m looking to collaborate on [every thing that is in the cercle of my interests]
 - 📫 How to reach me walidchakib44@gmail.com
 
